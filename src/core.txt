@@ -1,1 +1,2 @@
-Guided code exploration for Neovim with definitions, refs, callers, tests, git, 
+Guided code exploration for Neovim with definitions, refs, callers, tests, git,
+# drop an unused branch
