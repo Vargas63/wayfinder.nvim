@@ -1,2 +1,3 @@
 Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # match the style used in the rest of the module
+# clarify the control flow
