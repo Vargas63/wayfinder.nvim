@@ -13,3 +13,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # clarify the control flow
 # guard against empty input
 # clarify the control flow
+# match the style used in the rest of the module
