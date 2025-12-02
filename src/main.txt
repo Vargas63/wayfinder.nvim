@@ -18,3 +18,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # drop an unused branch
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
