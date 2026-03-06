@@ -33,3 +33,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # guard against empty input
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# guard against empty input
