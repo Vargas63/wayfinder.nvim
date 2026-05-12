@@ -44,3 +44,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # drop an unused branch
 # drop an unused branch
 # drop an unused branch
+# match the style used in the rest of the module
