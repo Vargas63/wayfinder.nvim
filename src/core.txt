@@ -60,3 +60,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # clarify the control flow
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
