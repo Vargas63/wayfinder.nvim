@@ -64,3 +64,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # clarify the control flow
 # drop an unused branch
 # guard against empty input
+# drop an unused branch
